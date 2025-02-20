@@ -1,0 +1,32 @@
+
+body{
+    background-color: wheat;
+}
+p50 {
+font-family: 'Courier New', Courier, monospace;
+color: pink;
+size: 50;
+
+}
+h1{
+    font-family:  Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: darkblue;
+
+}
+p2{
+    font-family: 'Courier New', Courier, monospace;
+    color: lightcoral;
+    size:50;
+
+}
+a{
+    color:lightpink;
+  font-size: 20;
+
+}
+a:hover
+{
+color:palevioletred;    
+
+font-size: 30;
+}
